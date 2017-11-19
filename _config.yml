@@ -12,3 +12,5 @@ url: "http://uclanlp.github.io/CS269-17"
 markdown: kramdown
 permalink: pretty
 
+
+theme: jekyll-theme-cayman
